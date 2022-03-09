@@ -2,7 +2,7 @@ body {
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
     line-height: 150%;
     font-size: 20px;
-    background-color: rgb(253, 251, 251);
+    background-color: rgb(146, 210, 226);
   }
   
   .cor-rosa {
@@ -37,7 +37,7 @@ body {
   }
   
   #rodape {
-    color: rgb(98, 37, 105);
+    color: rgb(150, 43, 75);
   }
   
   .header {
@@ -48,13 +48,13 @@ body {
     color: rgb(224, 99, 119);
   }
   #titulo {
-    color: rgb(224, 99, 119);
+    color: rgb(220, 99, 224);
     position: fixed;
     top: 0%;
   }
   #cabecalho {
     text-align: center;
-    background-color: blueviolet;
+    background-color: rgb(226, 43, 134);
     width: auto;
     height: 100px;
     position: fixed;
