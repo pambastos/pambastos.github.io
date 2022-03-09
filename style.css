@@ -49,6 +49,7 @@ body {
   }
   #titulo {
     color: rgb(220, 99, 224);
+    text-align: center;
     position: fixed;
     top: 0%;
   }
