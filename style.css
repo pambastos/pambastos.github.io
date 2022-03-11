@@ -8,6 +8,7 @@ body {
   .cor-rosa {
     color: rgb(224, 99, 119);
     margin: auto;
+    padding: 30px 70px 90px 70px;
   }
   
   h1 {
@@ -23,7 +24,7 @@ body {
     left: 650px;
     top: 70px;
     border-radius: 50%;
-    padding: 20px 30px 40px;
+    padding: 30px 70px 90px 70px;
   }
   
   .botao {
@@ -41,6 +42,7 @@ body {
   }
   
   .header {
+    padding: 30px 70px 90px 70px;
     color: rgb(224, 99, 119);
   }
   
@@ -63,4 +65,10 @@ body {
     right: 0;
     left: 0;
     margin: 0 30px;
+  }
+  
+  .artigo{
+
+padding:30px 70px 90px 70px;
+
   }
